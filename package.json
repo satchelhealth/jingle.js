@@ -12,7 +12,7 @@
     "extend-object": "^1.0.0",
     "intersect": "^0.1.0",
     "jingle-filetransfer-session": "^2.0.0",
-    "jingle-media-session": "^2.0.0",
+    "jingle-media-session": "git+ssh:git@github.com:satchelhealth/jingle-media-session.git",
     "jingle-session": "^2.0.0",
     "wildemitter": "^1.0.1"
   },
